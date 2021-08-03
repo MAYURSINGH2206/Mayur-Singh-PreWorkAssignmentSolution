@@ -17,10 +17,10 @@ y=n;
 }
 if(temp==y)
 {
-    System.out.println(n + "Number is Palindrome\n");
+    System.out.println("Number is Palindrome\n");
 }
 else{
-    System.out.println(n + "Number is not Palindrome\n");
+    System.out.println("Number is not Palindrome\n");
 }
 }
 
